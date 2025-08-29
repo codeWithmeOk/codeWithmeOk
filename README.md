@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @codeWithmeOk
-- 👀 I’m interested in c++ and python
-- 🌱 I’m currently learning c and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bipinvarma738@gmail.com
+# 👋 Hi, I’m @CodeWithMe
 
-<!---
-codeWithmeOk/codeWithmeOk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **C++, Python, Artificial Intelligence, Machine Learning, and Deep Learning**
+- 🌱 I’m currently learning **C and C++** while exploring **AI & ML concepts**
+- 💞️ I’m looking to collaborate on **projects related to AI, ML, robotics, and open-source contributions**
+- 📫 How to reach me: **bipinvarma738@gmail.com**
+
+---
+
+✨ Fun fact: I enjoy learning new technologies and building real-world problem-solving projects!  
